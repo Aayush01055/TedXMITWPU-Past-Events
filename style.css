@@ -1,0 +1,1423 @@
+.past-edition,
+.past-edition * {
+  box-sizing: border-box;
+}
+.past-edition {
+  background: #19191a;
+  height: 681.75rem;
+  position: relative;
+  overflow-y: auto;
+}
+.frame-38 {
+  padding: 0.625rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0.625rem;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 4.875rem;
+  top: 14.0625rem;
+}
+.past-edition2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 5rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._53-1 {
+  width: 39.083125rem;
+  height: 46.75rem;
+  position: absolute;
+  left: 85.375rem;
+  top: 5.9375rem;
+  aspect-ratio: 625.33/748;
+}
+.frame-92 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 2.125rem;
+  width: 68.1875rem;
+  height: 20.6875rem;
+  position: absolute;
+  left: 5.1875rem;
+  top: 50.8125rem;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-68 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.875rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 58.0625rem;
+  height: 13.625rem;
+  position: absolute;
+  left: 3.3125rem;
+  top: 4.0625rem;
+}
+.te-dx-mitwpu-2023-flip-the-switch-theme-an-epiphany-a-moment-of-transformation-flip-the-switch-was-about-embracing-change-taking-risks-and-rewriting-one-s-path {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 2.25rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 13.625rem;
+}
+.frame-91 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 2.125rem;
+  width: 68.1875rem;
+  height: 18.75rem;
+  position: absolute;
+  left: 5.1875rem;
+  top: 26.8125rem;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.te-dx-mitwpu-2023-flip-the-switch {
+  text-align: left;
+  position: absolute;
+  left: 4.125rem;
+  top: 2.9375rem;
+  width: 58.0625rem;
+  height: 12.3125rem;
+}
+.te-dx-mitwpu-2023-flip-the-switch-span {
+  color: #ff2b06;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  line-height: 102px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+.te-dx-mitwpu-2023-flip-the-switch-span2 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 102px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.te-dx-mitwpu-2023-flip-the-switch-span3 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 102px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+.footer {
+  width: 120.4375rem;
+  height: 35.8125rem;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 645.9375rem;
+}
+.rectangle-35 {
+  background: #131314;
+  width: 120.4375rem;
+  height: 35.8125rem;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+}
+._82-bb-896-c-95-ca-43-f-0-820-c-8275-fc-7-e-40-a-5 {
+  width: 28.96125rem;
+  height: 6.5rem;
+  position: absolute;
+  left: calc(50% - -25.71875rem);
+  top: 14.25rem;
+  object-fit: cover;
+  aspect-ratio: 463.38/104;
+}
+.frame-196 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 25.5rem;
+  position: absolute;
+  left: 6.375rem;
+  top: 12.125rem;
+}
+.contact-us {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 2.25rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-195 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6875rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.email-xyz-gmail-com {
+  color: #e7e7e7;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 2rem;
+  line-height: 3.125rem;
+  letter-spacing: 0.125rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-no-0000000000 {
+  color: #e7e7e7;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 2rem;
+  line-height: 3.125rem;
+  letter-spacing: 0.125rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-13 {
+  margin-top: -0.0625rem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem 0 0 0;
+  width: 17.125rem;
+  height: 0rem;
+  position: absolute;
+  left: 38.625rem;
+  top: 9.375rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-14 {
+  margin-top: -0.0625rem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.0625rem 0 0 0;
+  width: 17.125rem;
+  height: 0rem;
+  position: absolute;
+  left: 80.1875rem;
+  top: 9.375rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.frame-192 {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  align-items: center;
+  justify-content: flex-start;
+  width: 16.375rem;
+  position: absolute;
+  left: 50.75rem;
+  top: 12.125rem;
+}
+.follow-us-on {
+  color: #f5f5f5;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 2.25rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vector {
+  flex-shrink: 0;
+  width: 3.75rem;
+  height: 3.75rem;
+  position: relative;
+  overflow: visible;
+}
+.group-75 {
+  position: absolute;
+  inset: 0;
+}
+.frame-93 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 2.125rem;
+  width: 34.9375rem;
+  height: 44.6875rem;
+  position: absolute;
+  left: 79.0625rem;
+  top: 26.8125rem;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.tedx-flip-the-switch-1 {
+  border-radius: 2.1875rem;
+  width: 27.261875rem;
+  height: 38.5625rem;
+  position: absolute;
+  left: 82.875rem;
+  top: 29.875rem;
+  object-fit: cover;
+  aspect-ratio: 436.19/617;
+}
+.frame-151 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.5625rem;
+  align-items: flex-start;
+  justify-content: center;
+  width: 109.0625rem;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 86.125rem;
+}
+.frame-78 {
+  padding: 0.625rem;
+  display: flex;
+  flex-direction: row;
+  gap: 0.625rem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.past-speakers {
+  color: #e7e7e7;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 5.5rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-150 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.4375rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1512 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 107.625rem;
+  position: relative;
+}
+.frame-37 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-70 {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 56.875rem;
+  height: 25.625rem;
+  position: absolute;
+  left: 2.75rem;
+  top: 5.1875rem;
+}
+.ashish-chanchlani-youtuber-content-creator {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 6.9375rem;
+}
+.spoke-about-his-evolution-from-a-teacher-to-a-digital-education-leader-showcased-how-embracing-online-platforms-transformed-learning-inspired-students-to-take-charge-of-their-education {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 24.875rem;
+}
+.frame-372 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-76 {
+  height: auto;
+  position: absolute;
+  left: 3.09375rem;
+  top: 2.9375rem;
+  overflow: visible;
+}
+._20250324060259-ashish-chanchlani-will-soon-make-his-directorial-debut-with-acv-1-1 {
+  width: 30.33625rem;
+  height: 32.6875rem;
+  position: absolute;
+  left: 3.59375rem;
+  top: 2.6875rem;
+  object-fit: cover;
+  aspect-ratio: 485.38/523;
+}
+.frame-1502 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-88 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-762 {
+  height: auto;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.25rem;
+  overflow: visible;
+}
+.gaur-gopal-das-13915-2 {
+  width: 27.281875rem;
+  height: 33.75rem;
+  position: absolute;
+  left: 3.625rem;
+  top: 1.8125rem;
+  object-fit: cover;
+  aspect-ratio: 436.51/540;
+}
+.frame-94 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-71 {
+  display: flex;
+  flex-direction: column;
+  gap: 2.375rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 56.75rem;
+  height: 19.4375rem;
+  position: absolute;
+  left: 4.375rem;
+  top: 7.8125rem;
+}
+.guar-gopal-das-motivational-speaker-monk {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.discussed-governance-education-and-societal-transformation-emphasized-the-role-of-knowledge-in-shaping-policy-urged-young-minds-to-participate-in-civic-change {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 22.5rem;
+}
+.frame-140 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 107.625rem;
+  position: relative;
+}
+.ashish-choudhary-commerce-baba-educator-influencer {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 6.9375rem;
+}
+.group-763 {
+  height: auto;
+  position: absolute;
+  left: 3.09375rem;
+  top: 2.9375rem;
+  overflow: visible;
+}
+.ashishch-1 {
+  width: 25rem;
+  height: 33.625rem;
+  position: absolute;
+  left: 6.625rem;
+  top: 1.9375rem;
+  object-fit: cover;
+  aspect-ratio: 400/538;
+}
+.frame-141 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-764 {
+  height: auto;
+  position: absolute;
+  left: 2.5rem;
+  top: 3.25rem;
+  overflow: visible;
+}
+.virender-1 {
+  width: 39.263125rem;
+  height: 30.9375rem;
+  position: absolute;
+  left: 39.263125rem;
+  top: 4.1875rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+  aspect-ratio: 628.21/495;
+}
+.frame-712 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 56.75rem;
+  height: 21.9375rem;
+  position: absolute;
+  left: 4.375rem;
+  top: 6.5625rem;
+}
+.dr-vijender-singh-chauhan-expert-in-polity-governance {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-142 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-95 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-73 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 53.25rem;
+  height: 22.375rem;
+  position: absolute;
+  left: 4.75rem;
+  top: 6.375rem;
+}
+.pratishtha-thakur-haritwal-taxation-officer-ex-it-professional {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.spoke-about-her-career-shift-from-it-to-public-service-discussed-personal-reinvention-and-following-one-s-calling-showed-how-resilience-leads-to-meaningful-impact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 23.75rem;
+}
+.frame-96 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-765 {
+  height: auto;
+  position: absolute;
+  left: 2.96875rem;
+  top: 3.3125rem;
+  overflow: visible;
+}
+.prat-1 {
+  width: 26.9375rem;
+  height: 47.375rem;
+  position: absolute;
+  left: 5.875rem;
+  top: 2.625rem;
+  object-fit: cover;
+  aspect-ratio: 431/758;
+}
+.frame-143 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-98 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-766 {
+  height: auto;
+  position: absolute;
+  left: 2.875rem;
+  top: 3rem;
+  overflow: visible;
+}
+._4-4-1 {
+  width: 32.759375rem;
+  height: 35.0625rem;
+  position: absolute;
+  left: 3.625rem;
+  top: 3rem;
+  object-fit: cover;
+  aspect-ratio: 524.15/561;
+}
+.frame-97 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-72 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 56.875rem;
+  height: 25.125rem;
+  position: absolute;
+  left: 4.875rem;
+  top: 5.375rem;
+}
+.malik-gilani-entrepreneur-digital-services-media {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.shared-insights-on-building-businesses-in-the-digital-era-encouraged-taking-risks-and-adapting-to-technological-shifts-showcased-the-impact-of-digital-transformation-on-industries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-144 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-99 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-74 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 53.3125rem;
+  height: 24.5rem;
+  position: absolute;
+  left: 5.6875rem;
+  top: 5.625rem;
+}
+.ratan-lal-dangi-ips-inspector-general-of-police-raipur {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.reflected-on-social-initiatives-and-mentoring-youth-highlighted-the-importance-of-leadership-in-public-service-inspired-change-makers-to-take-responsibility-for-society {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-100 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-767 {
+  height: auto;
+  position: absolute;
+  left: 3.28125rem;
+  top: 2.875rem;
+  overflow: visible;
+}
+._5-5-1 {
+  width: 31.625rem;
+  height: 31.4375rem;
+  position: absolute;
+  left: 3.09375rem;
+  top: 3.625rem;
+  object-fit: cover;
+  aspect-ratio: 506/503;
+}
+.frame-146 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-145 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-768 {
+  height: auto;
+  position: absolute;
+  left: 3.84375rem;
+  top: 3.5rem;
+  overflow: visible;
+}
+._6-6-1 {
+  width: 29.60125rem;
+  height: 35.125rem;
+  position: absolute;
+  left: 3.375rem;
+  top: 0rem;
+  object-fit: cover;
+  aspect-ratio: 473.62/562;
+}
+.frame-101 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-75 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 55rem;
+  height: 21.5rem;
+  position: absolute;
+  left: 5.25rem;
+  top: 6.8125rem;
+}
+.yash-lahoti-founder-women-s-cric-zone-women-s-sportszone {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.advocated-for-better-representation-of-women-in-sports-showcased-how-the-media-can-shape-narratives-encouraged-breaking-barriers-in-male-dominated-fields {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-148 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-105 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-69 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 50.5rem;
+  height: 21.5625rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 6.75rem;
+}
+.ajitesh-gupta-actor-theater-performer {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 6.0625rem;
+}
+.shared-his-journey-in-theatre-and-storytelling-highlighted-the-power-of-expression-in-personal-transformation-encouraged-embracing-uncertainty-to-create-impact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 14rem;
+}
+.frame-106 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-769 {
+  height: auto;
+  position: absolute;
+  left: 2.3125rem;
+  top: 3rem;
+  overflow: visible;
+}
+._7-7-1 {
+  width: 36.764375rem;
+  height: 33.5625rem;
+  position: absolute;
+  left: 36.764375rem;
+  top: 1.5625rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+  aspect-ratio: 588.23/537;
+}
+.frame-149 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-7610 {
+  height: auto;
+  position: absolute;
+  left: 3.84375rem;
+  top: 3.5rem;
+  overflow: visible;
+}
+._12 {
+  width: 36.375rem;
+  height: 45.75rem;
+  position: absolute;
+  left: 0.78125rem;
+  top: -1.9375rem;
+  object-fit: cover;
+  aspect-ratio: 582/732;
+}
+.mohammed-salim-khan {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-163 {
+  display: flex;
+  flex-direction: column;
+  gap: 6.375rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 107.625rem;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 544.4375rem;
+}
+.frame-147 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-103 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-76 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 54rem;
+  height: 22.8125rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 6.125rem;
+}
+.shashank-vishwakarma-finger-tutting-artist {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2rem;
+  line-height: 3.0625rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.demonstrated-how-creativity-fuels-self-discovery-showed-how-unconventional-art-forms-can-inspire-change-encouraged-perseverance-in-passion-driven-careers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.75rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 24.9375rem;
+}
+.frame-104 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-77 {
+  height: auto;
+  position: absolute;
+  left: 3.125rem;
+  top: 3rem;
+  overflow: visible;
+}
+._473079548-18386352319108961-6726525881638469283-n-1 {
+  flex-shrink: 0;
+  width: 28.25rem;
+  height: 30.1875rem;
+  position: absolute;
+  left: 75.3125rem;
+  top: 4.9375rem;
+  object-fit: cover;
+  aspect-ratio: 452/483;
+}
+.frame-1492 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.75rem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-108 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.9375rem;
+  flex-shrink: 0;
+  width: 36.375rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.group-772 {
+  height: auto;
+  position: absolute;
+  left: 2.8125rem;
+  top: 3.875rem;
+  overflow: visible;
+}
+.event-brochure-1 {
+  width: 37.3125rem;
+  height: 33.4375rem;
+  position: absolute;
+  left: -0.9375rem;
+  top: 2.625rem;
+  object-fit: cover;
+  aspect-ratio: 597/535;
+}
+.frame-107 {
+  background: rgba(233, 233, 233, 0.03);
+  border-radius: 1.75rem;
+  flex-shrink: 0;
+  width: 65.5rem;
+  height: 35.125rem;
+  position: relative;
+  box-shadow: 0.125rem 0.125rem 0.0625rem 0rem rgba(229, 229, 229, 0.25),
+    -0.125rem -0.125rem 0.0625rem 0rem rgba(228, 226, 226, 0.25);
+  overflow: hidden;
+  backdrop-filter: blur(1.1125rem);
+}
+.frame-77 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 51rem;
+  height: 21.875rem;
+  position: absolute;
+  left: 7.25rem;
+  top: 6.625rem;
+}
+.palash-live-musical-performance {
+  color: #ff2b06;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 2.5rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 4.125rem;
+}
+.blended-music-with-the-theme-of-transformation-created-an-immersive-experience-of-energy-and-change-reinforced-the-power-of-artistic-expression {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 2rem;
+  line-height: 3rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 17.75rem;
+}
+.past-performers {
+  color: #e7e7e7;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 5.5rem;
+  line-height: 4.161875rem;
+  letter-spacing: 0.1875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 6.1875rem;
+  top: 532.125rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header {
+  background: #282828;
+  display: flex;
+  flex-direction: row;
+  gap: 0rem;
+  align-items: flex-start;
+  justify-content: center;
+  width: 120.125rem;
+  position: sticky;
+  left: 0rem;
+  top: 0rem;
+  overflow: hidden;
+}
+.component-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 3.8125rem;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: absolute;
+  left: 56rem;
+  top: 2.5625rem;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.past-edition3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.guidelines {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Barlow-Regular", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._82-bb-896-c-95-ca-43-f-0-820-c-8275-fc-7-e-40-a-5-1 {
+  flex-shrink: 0;
+  width: 14.3125rem;
+  height: 3.48125rem;
+  position: absolute;
+  left: 3.9375rem;
+  top: 1.9375rem;
+  object-fit: cover;
+  aspect-ratio: 229/55.7;
+}
+
+/* Add "X" SVG behind each speaker and performer image */
+.past-edition img {
+  position: relative; /* Ensure the image is above the "X" */
+  z-index: 1; /* Set stacking order */
+  border-radius: 1rem; /* Optional: Match the rounded corners */
+}
+
+.past-edition .frame-37,
+.past-edition .frame-372,
+.past-edition .frame-88,
+.past-edition .frame-94,
+.past-edition .frame-95,
+.past-edition .frame-96,
+.past-edition .frame-97,
+.past-edition .frame-98,
+.past-edition .frame-99,
+.past-edition .frame-100,
+.past-edition .frame-101,
+.past-edition .frame-103,
+.past-edition .frame-104,
+.past-edition .frame-106,
+.past-edition .frame-108 {
+  position: relative; /* Ensure proper stacking context */
+}
+
+.past-edition .frame-37::before,
+.past-edition .frame-372::before,
+.past-edition .frame-88::before,
+.past-edition .frame-94::before,
+.past-edition .frame-95::before,
+.past-edition .frame-96::before,
+.past-edition .frame-97::before,
+.past-edition .frame-98::before,
+.past-edition .frame-99::before,
+.past-edition .frame-100::before,
+.past-edition .frame-101::before,
+.past-edition .frame-103::before,
+.past-edition .frame-104::before,
+.past-edition .frame-106::before,
+.past-edition .frame-108::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 0; /* Place behind the image */
+  width: 100%; /* Adjust size to fit the container */
+  height: 100%;
+  background: url('x.svg') no-repeat center center; /* Path to the "X" SVG */
+  background-size: contain; /* Ensure the "X" scales properly */
+  opacity: 0.8; /* Optional: Adjust opacity for better visibility */
+  pointer-events: none; /* Prevent interaction with the "X" */
+}
